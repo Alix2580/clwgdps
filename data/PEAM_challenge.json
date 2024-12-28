@@ -9,5 +9,12 @@
 	"verification": "https://youtu.be/Wfs7v6fHL7o?si=_WmRFVm1NWwfGwRy",
 	"percentToQualify": 100,
 	"password": "-",
-	"records": []
+	"records": [
+		{
+			"user": "yeeee",
+			"link": "https://youtu.be/SXPceP819eo?si=LRqOKt1DaB4sCZ3w",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
