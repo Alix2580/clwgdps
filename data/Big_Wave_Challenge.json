@@ -9,5 +9,12 @@
 	"verification": "https://youtu.be/qjmpG2Yf2Ig?si=kULCwVrhd7RzcB_E",
 	"percentToQualify": 100,
 	"password": "-",
-	"records": []
+	"records": [
+		{
+			"user": "Shib",
+			"link": "",
+			"percent": 100,
+			"hz": 60
+		}
+	]
 }
