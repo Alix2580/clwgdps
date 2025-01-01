@@ -51,6 +51,11 @@
 			"link": "https://youtu.be/5hQW_jFZUGI?si=mU0r-5mnuGMWq2jv",
 			"percent": 100,
 			"hz": 240
+		},
+		{.      "user": "Shib",
+			"link": "",
+			"percent": 100,
+			"hz": 60
 		}
 	]
 }
