@@ -29,11 +29,16 @@
 			"hz": 165
 		},
 		{
-			"user": "Shib",
+		        "user": "Shib",
 			"link": "",
 			"percent": 100,
 			"hz": 60
+		},
+		{
+	                "user": "ShxdxW DEV",
+			"link": "https://www.youtube.com/watch?v=wfquHzelIc8",
+			"percent": 100,
+			"hz": 60
 		}
-		
 	]
 }
