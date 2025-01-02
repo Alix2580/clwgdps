@@ -41,6 +41,12 @@
 			"hz": 240
 		},
 		{
+			"user": "Hex",
+			"link": "",
+			"percent": 100,
+			"hz": 60
+		},
+		{
 			"user": "Shib",
 			"link": "",
 			"percent": 100,
