@@ -9,5 +9,12 @@
 	"verification": "",
 	"percentToQualify": 100,
 	"password": "-",
-	"records": []
+	"records": [
+		{
+			"user": "Filipogem",
+			"link": "https://www.youtube.com/watch?v=O7r8mrzfchA",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
