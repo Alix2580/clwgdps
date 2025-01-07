@@ -51,6 +51,12 @@
 			"link": "",
 			"percent": 100,
 			"hz": 60
+		},
+		{
+			"user": "Filipogem",
+			"link": "https://www.youtube.com/watch?v=8VY3pSoP1V0",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
