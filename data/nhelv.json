@@ -9,5 +9,12 @@
 	"verification": "",
 	"percentToQualify": 71,
 	"password": "-",
-	"records": []
+	"records": [
+		{
+			"user": "ItzPickles",
+			"link": "https://youtu.be/QwkvhKZ4Rko",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
