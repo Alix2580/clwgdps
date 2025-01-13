@@ -1,0 +1,20 @@
+{
+	"id": 2274,
+	"name": "Empty",
+	"author": "Empty",
+	"creators": [
+		"Hex"
+	],
+	"verifier": "Hex",
+	"verification": "",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+    {
+			"user": "Kubix",
+			"link": "",
+			"percent": 100,
+			"hz": 165
+		}
+  ]
+}
