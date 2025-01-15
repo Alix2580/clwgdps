@@ -57,6 +57,12 @@
 			"link": "https://www.youtube.com/watch?v=8VY3pSoP1V0",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "swifti",
+			"link": "https://www.youtube.com/watch?v=x5oxRXLFavM",
+			"percent": 100,
+			"hz": 240
 		}
-	]
+  ]
 }
