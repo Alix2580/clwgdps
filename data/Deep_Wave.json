@@ -9,5 +9,11 @@
 	"verification": "https://youtu.be/ed1894FRntE?si=CXXNz1AreaUOrFgw",
 	"percentToQualify": 100,
 	"password": "-",
-	"records": []
+	"records": [
+		{
+			"user": "swifti",
+			"link": "https://www.youtube.com/watch?v=2i4UMB4e0js",
+			"percent": 100,
+			"hz": 240
+		},
 }
